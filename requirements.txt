@@ -1,0 +1,3 @@
+pandas
+packaging
+openpyxl   # for to_excel
